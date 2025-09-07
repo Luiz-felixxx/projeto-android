@@ -1,1 +1,1 @@
-<a href="https://luiz-felixxx.github.io/projeto-android/">entrar no site</a>
+<a href="https://luiz-felixxx.github.io/projeto-android/" target="_blank">entrar no site</a>
